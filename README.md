@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I’m Divyansh 👋  
 
-<!--
-**divz1996/divz1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Currently on a **Scratch-to-Hire Challenge**:  
+Rebuilding my Data Analytics skillset and documenting the journey until I land my first UK role.  
 
-Here are some ideas to get you started:
+## 🔍 Focus Areas  
+- Productivity & Agentic AI Tools (process improvement)  
+- EdTech & Learning Analytics  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+Python (Pandas, NumPy, Matplotlib, Seaborn) | SQL (Snowflake) | Power BI | GitHub | Notion  
+
+## 🚀 Challenge Tracker  
+- [Day 1] Kickoff Post — ✅  
+- [Week 1] Python Foundations — ⬜  
+- [Week 2] SQL Deep Dive — ⬜  
+- [Week 3] Analytics Experiments — ⬜  
+- [Week 4] Power BI Dashboards — ⬜  
+(Updating as I go → follow along!)  
+
+## 📂 Key Repos  
+- [python-learning](#) — notebooks & exercises  
+- [sql-practice](#) — solved queries & case studies  
+- [da-projects](#) — mini + capstone projects  
+
+## 🌍 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/divyanshdubey96/)  
+- [YouTube](https://www.youtube.com/@rgpv_de_bunkers6273)  
+- [Notion Dashboard](https://www.notion.so/Scratch-to-Hire-Command-Center-278d678a4ef6800ba61cc0fdc965b892?source=copy_link)
+- [Portfolio](#) (coming soon)  
+
+---
+✨ *Follow my journey: one step at a time, from scratch to hired.*  
