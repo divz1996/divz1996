@@ -80,6 +80,18 @@ End-to-end analytics projects across Productivity and EdTech domains.
 
 ---
 
+## 📦 Previous Work Archive (2021)
+
+For reference, I've consolidated all my 2021 technical projects:
+
+→ **[early-projects-archive](https://github.com/divyanshdubey/early-projects-archive)** - Data analytics, ML, and computer vision work from IIM Indore and internships
+
+*Includes: IIM IPBA Capstone, Technocolabs Risk Modeling, Face Recognition, Eye Tracking, and more.*
+
+**Note:** This is archived material. My current focus is the #ScratchToHire Challenge above.
+
+---
+
 ## 🎯 Focus Domains
 
 ### 📈 Productivity & Agentic AI Tools
