@@ -1,45 +1,35 @@
 # Divyansh Dubey
 
-Reporting & Power BI Analyst — London, UK
+Data Analyst / Power BI Analyst in London building reporting systems, KPI dashboards, and analytics workflows that turn business questions into decisions.
 
-I build dashboards, reporting solutions, and data workflows that help teams track performance, monitor KPIs, and make better decisions. Currently working at Molson Coors Beverage Company.
+I work across Power BI, SQL, Excel, and Python, with a focus on commercial reporting, performance tracking, and data models that are reliable, scalable, and useful to stakeholders.
 
----
+## Featured Work
 
-## Experience
+### UK Insurance Market Statistics Insights Portal
+**Tech:** SQL, Power BI, Star Schema, MI Views  
+Built an insurance analytics solution focused on claims operations reporting, including KPI tracking, SLA performance, and leakage analysis for leadership reporting.
 
-**Reporting & Power BI Analyst** — Molson Coors Beverage Company *(Mar 2026 – Present)*
-Commercial and operations reporting, Power BI dashboard development and maintenance, data modelling (star schema), and streamlining legacy reporting.
+[View repository](https://github.com/divz1996/uk-insurance-market-statistics-insights-portal)
 
-**Data Analyst** — Pepcoding Education Private Limited *(Oct 2021 – Mar 2022)*
-SQL-driven Metabase dashboards, automated reporting pipelines, funnel conversion tracking, and stakeholder reporting.
+## What I Build
 
----
+- Power BI dashboards for commercial and operational reporting
+- SQL-based reporting layers and analytical data models
+- KPI tracking systems for performance, funnel, and service monitoring
+- Reporting workflows that replace manual spreadsheet-heavy processes
 
-## Repositories
+## Current Focus
 
-**[uk-insurance-market-statistics-insights-portal](https://github.com/divz1996/uk-insurance-market-statistics-insights-portal)**
-SQL star schema, MI views, and Power BI dashboard for insurance claims analytics — covering KPIs, SLA tracking, and leakage reporting for Claims Operations leadership.
-
----
+- Reporting & Power BI Analyst at Molson Coors
+- Building portfolio projects in analytics, BI, and business reporting
+- Exploring scalable reporting design, DAX optimization, and data workflow automation
 
 ## Toolkit
 
 Power BI · DAX · Power Query · SQL · Excel · Python · Databricks · Git
 
----
+## Connect
 
-## Background
-
-MBA — University of Bath, UK
-Integrated Program in Business Analytics — IIM Indore (1st Rank)
-BE Computer Science — PDSCT (1st Rank)
-
-Full right to work in the UK
-
----
-
-## Contact
-
-London, UK
-[LinkedIn](https://linkedin.com/in/divyanshdubey96) · [Email](mailto:divyanshdubey1996@gmail.com)
+- [LinkedIn](https://linkedin.com/in/divyanshdubey96)
+- [Email](mailto:divyanshdubey1996@gmail.com)
