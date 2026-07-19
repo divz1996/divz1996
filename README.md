@@ -16,6 +16,13 @@ SQL-driven Metabase dashboards, automated reporting pipelines, funnel conversion
 
 ---
 
+## Repositories
+
+**[uk-insurance-market-statistics-insights-portal](https://github.com/divz1996/uk-insurance-market-statistics-insights-portal)**
+SQL star schema, MI views, and Power BI dashboard for insurance claims analytics — covering KPIs, SLA tracking, and leakage reporting for Claims Operations leadership.
+
+---
+
 ## Toolkit
 
 Power BI · DAX · Power Query · SQL · Excel · Python · Databricks · Git
