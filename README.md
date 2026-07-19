@@ -1,76 +1,38 @@
-# Hi, I'm Divyansh Dubey 👋
+# Divyansh Dubey
 
-**Data Analyst | MBA Candidate | #ScratchToHire Challenge**
+Reporting & Power BI Analyst — London, UK
 
-🎯 **Currently:** Building my way from scratch into Data Analytics roles in London through public learning and real projects.
-
----
-
-## 🚀 About My Journey
-
-I'm on a **Scratch-to-Hire Challenge** - a structured, transparent journey from operations/business background into **Data Analytics**, specifically targeting **Productivity Tools** and **EdTech/Learning Analytics** domains.
-
-**Background:**
-- 🎓 MBA at University of Bath School of Management
-- 💼 Previous: Operations, Education, Sales Leadership
-- 🔧 CS Engineering + Business Analytics (IIM Indore)
-- 📊 Rebuilding my data career after a 3-year gap
-
-**Mission:** Land a Data Analyst role in London by documenting every step publicly - from fundamentals to portfolio projects.
+I build dashboards, reporting solutions, and data workflows that help teams track performance, monitor KPIs, and make better decisions. Currently working at Molson Coors Beverage Company.
 
 ---
 
-## 📚 Learning Progress (16-Step Plan)
+## Experience
 
-### ✅ Completed
-- **[Week 1] Python Foundations** - CS50P by Harvard ✅ **(Completed in 22 days!)**
-  - Functions, OOP, File I/O, Regex, Testing, Libraries
-  - Repository: [python-learning](https://github.com/divz1996/python-learning)
-  - Project: [Task Manager CLI](https://github.com/divz1996/python-projects)
+**Reporting & Power BI Analyst** — Molson Coors Beverage Company *(Mar 2026 – Present)*
+Commercial and operations reporting, Power BI dashboard development and maintenance, data modelling (star schema), and streamlining legacy reporting.
 
-### 🔄 In Progress
-- **[Week 2-4] SQL Deep Dive** - Snowflake course by Analyst Hive 🚀 **ACTIVE**
-  - Joins, CTEs, Window Functions, Query Optimization
-  - Repository: [sql-practice](https://github.com/divz1996/sql-practice)
-
-- **[Parallel] Google Analytics Course** - Coursera 📊 **ACTIVE**
-  - Data collection, analysis, and reporting fundamentals
-
-### 📅 Coming Next
-- **[Week 4-5]** Analytics Math & Experiments (A/B testing, hypothesis testing, regression)
-- **[Week 5-6]** Data Visualization & Storytelling with Power BI
-- **[Week 6-8]** Domain Toolkits (Process Mining, LMS Analytics)
-- **[Week 8-9]** Mini Projects across Productivity & EdTech
-- **[Week 10-14]** Flagship Capstone Projects
-- **[Week 14+]** Portfolio Polish + Active Applications
+**Data Analyst** — Pepcoding Education Private Limited *(Oct 2021 – Mar 2022)*
+SQL-driven Metabase dashboards, automated reporting pipelines, funnel conversion tracking, and stakeholder reporting.
 
 ---
 
-## 🛠️ Tech Stack
+## Toolkit
 
-**Languages & Tools:**
-```
-Python (Pandas, NumPy, Matplotlib, Seaborn)
-SQL (Snowflake, PostgreSQL)
-Power BI | Excel | GitHub | Notion
-```
-
-**Learning:**
-```
-A/B Testing | Statistical Analysis
-Process Mining (PM4Py) | LMS/xAPI Analytics
-Data Visualization | Dashboard Design
-```
+Power BI · DAX · Power Query · SQL · Excel · Python · Databricks · Git
 
 ---
 
-## 📂 Key Repositories
+## Background
 
-### 🐍 [python-learning](https://github.com/divz1996/python-learning)
-Complete CS50P journey - 22 days of notes, problem sets, and code from Harvard's Python course.
+MBA — University of Bath, UK
+Integrated Program in Business Analytics — IIM Indore (1st Rank)
+BE Computer Science — PDSCT (1st Rank)
 
-### 💻 [python-projects](https://github.com/divz1996/python-projects)
-Production-ready Python applications - starting with Task Manager CLI.
+Full right to work in the UK
 
-### 🗄️ [sql-practice](https://github.com/divz1996/sql-practice) *(Coming Soon)*
-SQL challenges, solved queries, and case studies from Analyst Hive curriculum.
+---
+
+## Contact
+
+London, UK
+[LinkedIn](https://linkedin.com/in/divyanshdubey96) · [Email](mailto:divyanshdubey1996@gmail.com)
